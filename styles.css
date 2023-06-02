@@ -2,3 +2,9 @@ body {
     background-color: black; 
     color: whitesmoke;
 }
+h2 { 
+    margin-left: 10px;
+}
+p {
+    margin-left:20px;
+}
